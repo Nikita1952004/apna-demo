@@ -1,4 +1,4 @@
 # apna-demo
 This is my first Git Repository
 <br>
-Author - Nikita Gore
+Author - Nikita (Gore)
